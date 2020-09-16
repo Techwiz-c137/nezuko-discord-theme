@@ -1,8 +1,8 @@
 {
-	"name": "Rounded Dark Theme",
-	"description": "KNY - Discord theme for discord",
-	"author": "Shiro Curlymane#6818",
-	"version": "1.0.0",
-	"license": "Rias",
-	"theme": "theme.css"
+    "name": "KNY_Discord_Nezuko",
+    "theme": "theme.css",
+    "license": "A.U.R.O.R.A",
+    "version": "1.0.0",
+    "author": "Shiro Curlymane#6818",
+    "description": "A custom theme made because of the amazing anime Kimetsu no Yaiba, with the cute demon girl called Nezuko"
 }
