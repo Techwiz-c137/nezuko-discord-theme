@@ -1,0 +1,8 @@
+{
+	"name": "Rounded Dark Theme",
+	"description": "KNY - Discord theme for discord",
+	"author": "Shiro Curlymane#6818",
+	"version": "1.0.0",
+	"license": "Rias",
+	"theme": "theme.css"
+}
